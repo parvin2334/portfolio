@@ -228,3 +228,39 @@ hr{
     padding: 18px 300px 130px 30px;  
     border-radius: 5px;
 }
+.hidden{
+    display: none;
+}
+@media  only screen and
+(max-width:600px){
+    .commonForEduExp{
+        flex-direction: column;
+        margin: 0px 30px;
+
+    }
+}
+.whatIDo{
+    margin: 0px;
+    margin-bottom: 30px;
+
+}
+.whatIDoPara{
+    padding: 30px 20px;
+}
+.whatIDoContainer{
+    flex-direction: column;
+} 
+.about{
+    margin: 0px;
+    padding: 0px;
+}
+.fatherOfFourSon{
+
+    flex-direction: column;
+
+
+}
+.aboutMe{
+    margin: 0px 20px;
+    
+}
